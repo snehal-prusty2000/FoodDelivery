@@ -12,3 +12,8 @@
     gap: 30px;
     row-gap: 50px;
 }
+@media (max-width:750px) {
+    .food-display{
+        width: 100%;
+    }
+}
